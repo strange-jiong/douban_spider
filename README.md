@@ -1,5 +1,5 @@
 #一个简单的豆瓣信息爬虫
-##豆瓣同城数据爬取
+##一、豆瓣同城数据爬取
 
 目标网址：http://www.douban.com/location/xian/
 
