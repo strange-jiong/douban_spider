@@ -26,6 +26,6 @@
         4. 字段之间用逗号（英文逗号）隔开。
 
 ##三、MORE
--豆瓣开放了api接口，可以直接使用它提供的api [图书Api V2](https://developers.douban.com/wiki/?title=book_v2)
+- 豆瓣开放了api接口，可以直接使用它提供的api [图书Api V2](https://developers.douban.com/wiki/?title=book_v2)
 
 
